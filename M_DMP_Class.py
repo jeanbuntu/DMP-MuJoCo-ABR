@@ -1,5 +1,5 @@
 import numpy as np
-from cs_explicit import CanonicalSystem
+from M_CS import CanonicalSystem
 import M_inter_ydd as it
 
 
