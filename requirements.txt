@@ -1,0 +1,5 @@
+numpy
+matplotlib
+mujoco
+mujoco-py
+https://github.com/abr/abr_control
